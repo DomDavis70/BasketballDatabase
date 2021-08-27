@@ -1,0 +1,6 @@
+Doe    , John, 23, 34, 2.5, 10.8
+Jordan, Michael, 45, 45, 12.3, 14.8
+Davis,    Anthony, 26, 44, 10.7, 11.1
+Beverly, Patrick, 28, 41, 16.0, 17.5
+Bryant, Kobe, 35, 45.8, 34, 35.5
+Rondo, Rajon, 23, 12, 30.2, 34.9
